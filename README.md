@@ -30,9 +30,12 @@
 ```cmd
 # Navigate into project1 location 
 # Git Cloning
-> git clone https://github.com/marcorichetta/cs50-project1.git
+> git clone https://github.com/Naufal-AA/cs50-project1.git
 #change directory
 > cd cs50-project1
+>git add .
+>git commit -m "committed"
+>git push
 
 # Install necessary packages
 > pip3 install -r requirements.txt
