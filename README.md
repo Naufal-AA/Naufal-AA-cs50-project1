@@ -46,6 +46,9 @@
 > set DATABASE_URL = URL of DATABASE
 > set GOODREADS_KEY = Goodreads API Key
 
+#import sql query and insert book details
+>python import.py
+
 #run flask
 >flask run
 ```
