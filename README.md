@@ -33,7 +33,7 @@
 > git clone https://github.com/Naufal-AA/cs50-project1.git
 #change directory
 > cd cs50-project1
->git add .
+>git add . 
 >git commit -m "committed"
 >git push
 
