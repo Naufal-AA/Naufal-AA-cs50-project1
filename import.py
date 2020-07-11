@@ -61,6 +61,8 @@ def main():
 			count += 1
 			db.execute("INSERT INTO books (isbn, title, author,year) VALUES (:isbn, :title, :author, :year)",
                     {"isbn": isbn, "title": title, "author": author, "year":year})
+			print(f"added book {title}, by {author}, in {year}; {isbn}")
+			print(f"1 ROW affected")
 
 
 	print(f" {count} rows inserted!")
