@@ -52,5 +52,5 @@
 
 
 # Thank you kindly
-* [Goodread API](https://www.goodreads.com/api)
+* [Goodreads API](https://www.goodreads.com/api)
 * [Open Library Covers API](http://covers.openlibrary.org/) (for Collecting Book Cover)
