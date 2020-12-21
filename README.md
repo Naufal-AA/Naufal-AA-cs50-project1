@@ -3,6 +3,7 @@
 #### for more info [course | CS50W | edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/)
 
 #### Use the app on [Heroku](https://web-development-python-js.herokuapp.com/)
+#### Watch on [Youtube](https://www.youtube.com/watch?v=-cvByPFkQDc)
 
 #### Objective
 * Become more comfortable with Python.
